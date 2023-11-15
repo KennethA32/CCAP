@@ -1,4 +1,4 @@
-# CCAP 2023 Project
+# CCAPP 2023 Project
 This Repo is designed to serve as a launching board for the City Academy for Professional Preparation (CCAPP) 2023 Project.
 
 This Project will entail achieveing the following goals:
